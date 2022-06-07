@@ -1,2 +1,2 @@
-# sololearn_test
-Random lessons from sololearn !!
+# sololearn_py_test
+Random lessons from sololearn
